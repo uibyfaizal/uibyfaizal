@@ -4,7 +4,7 @@
 Aspiring frontend developer focused on building simple, responsive, and visually appealing web interfaces. Proficient in HTML, CSS, and JavaScript, and currently developing skills in React.js through personal projects and experiments.
 
 * ✉️ Send me a message at muh.rahmat.faisal.047@gmail.com
-* 📖 Now I'm learning about ReactJS and NodeJs
+* 📖 Now I'm learning about Laravel Framework.
 * 🤝 Happy to team up on projects.
 
   ### Learn About

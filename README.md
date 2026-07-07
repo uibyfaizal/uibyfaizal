@@ -9,7 +9,7 @@ Hi, I'm Muhammad Rahmat Faizal, a Junior Web Developer passionate about turning 
 
   ### Learn About
   
-  <img src="https://www.google.com/search?q=logo+html&oq=logo+html&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDEzMzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#sv=CAMSZxowKg4yb1h3angtWGgwR3ozTTIOMm9Yd2p4LVhoMEd6M006DnhvdE5hcHR1Vk54RlVNIAQqLwobXzMyZE1hcUhCRTRTdDQtRVBtb19LcVFjXzg1Eg4yb1h3angtWGgwR3ozTRgAMAEYByCFmoSRAUoIEAEYASABKAE" alt="html logo" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" alt="html logo" width="50"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css logo" width="35" />
 
